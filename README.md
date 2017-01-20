@@ -1,2 +1,0 @@
-# GettingandCleaningData
-For Courseras course
