@@ -13,4 +13,3 @@ READ ME.md, which you are reading at this moment explaining the content and purp
 CodeBook.md, describing the the variables of the tidy data set
 run_analysis.R, the code in R for working the dataset and producing the tidy data set 
 
-Thak you for reading me!
